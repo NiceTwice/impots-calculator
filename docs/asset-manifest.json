@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.0d9042af.js",
-    "static/js/787.437e1409.chunk.js": "/static/js/787.437e1409.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.0d9042af.js.map": "/static/js/main.0d9042af.js.map",
-    "787.437e1409.chunk.js.map": "/static/js/787.437e1409.chunk.js.map"
+    "main.css": "/impots-calculator/static/css/main.073c9b0a.css",
+    "main.js": "/impots-calculator/static/js/main.cea9c27f.js",
+    "index.html": "/impots-calculator/index.html",
+    "main.073c9b0a.css.map": "/impots-calculator/static/css/main.073c9b0a.css.map",
+    "main.cea9c27f.js.map": "/impots-calculator/static/js/main.cea9c27f.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0d9042af.js"
+    "static/js/main.cea9c27f.js"
   ]
 }
