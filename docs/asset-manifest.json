@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/impots-calculator/static/css/main.073c9b0a.css",
-    "main.js": "/impots-calculator/static/js/main.cea9c27f.js",
+    "main.js": "/impots-calculator/static/js/main.f2abc0d5.js",
     "index.html": "/impots-calculator/index.html",
     "main.073c9b0a.css.map": "/impots-calculator/static/css/main.073c9b0a.css.map",
-    "main.cea9c27f.js.map": "/impots-calculator/static/js/main.cea9c27f.js.map"
+    "main.f2abc0d5.js.map": "/impots-calculator/static/js/main.f2abc0d5.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cea9c27f.js"
+    "static/js/main.f2abc0d5.js"
   ]
 }

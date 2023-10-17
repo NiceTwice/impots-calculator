@@ -1,6 +1,9 @@
 import React from "react";
 import "./App.css";
 import { getIncomeTax } from "./helpers/impots";
+import CssBaseline from "@mui/material/CssBaseline";
+import { ThemeProvider } from "@mui/material/styles";
+import theme from "./style/mui/theme";
 
 const TaxCalculator = () => {
   const [tax, setTax] = React.useState(0);
@@ -26,9 +29,15 @@ const TaxCalculator = () => {
 
 function App() {
   return (
-    <div className="App">
-      <TaxCalculator />
-    </div>
+    <>
+      <ThemeProvider theme={theme}>
+        {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
+        <CssBaseline />
+        <div className="App">
+          <TaxCalculator />
+        </div>
+      </ThemeProvider>
+    </>
   );
 }
 

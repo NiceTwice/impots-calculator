@@ -1,0 +1,8 @@
+/* stylelint-disable scss/at-rule-no-unknown */
+@import '@onedior/cdc-core/styles/_global';
+@import '@onedior/cdc-core/styles/_reactPlaceholder';
+
+// tailwind
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
